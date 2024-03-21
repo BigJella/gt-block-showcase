@@ -1,3 +1,5 @@
+# PLEASE DON'T LOOK AT THIS WEBSITE ITS SO BAD AND DOESN'T MEET MY STANDARDS
+
 # Privacy Police Website
 
 This is the source code for my GT (Georgia Tech) Block Showcase Project. I wrote this code in 2nd semester 9th grade and am writing this README one year later.
